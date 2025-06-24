@@ -1,4 +1,4 @@
-# Hi. I'm Varshil Patel!
+# Hi, I'm Varshil Patel!
 <br/>
 
 <!-- About  -->
