@@ -61,3 +61,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="33rem" width="33rem"/>
 </div>
 <br/>
+
+[![Portfolio](https://github.com/user-attachments/assets/9fe6713b-b527-45ef-b246-2d3a4931804c)](https://varshilpatel.vercel.app/)
