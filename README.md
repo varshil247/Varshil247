@@ -5,9 +5,9 @@
 <code> # About Me </code>
 <pre>
   <code>
-  🎓 | CS-AI UnderGrad @ UoN                          🏞️ | Love Hiking Mountains & Travelling
-  📱 | Fullstack Software Engineer                    🚀 | Invested in Growth & Mentorship
-  🧠 | AI/ML Engineering                              🎾 | 'Professional' Badminton and Tennis
+  🎓 | CS-AI UnderGrad @ UoN                  🏞️ | Love Hiking Mountains & Travelling
+  📱 | Fullstack Software Engineer            🎾 | Love Badminton, Tennis & Cycling
+  🧠 | AI/ML Backend Engineering              🚀 | Invested in Growth & Mentorship
   🌐 | Web Design & Development
   </code>
 </pre>
