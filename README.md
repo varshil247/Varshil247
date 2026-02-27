@@ -71,7 +71,7 @@
 </table>
 <br/>
 
-<!-- Portfolio  -->
+<!-- Portfolio 
 <code> # My Portfolio </code>
-
 [![Portfolio](https://github.com/user-attachments/assets/9fe6713b-b527-45ef-b246-2d3a4931804c)](https://varshilpatel.vercel.app/)
+--!>
